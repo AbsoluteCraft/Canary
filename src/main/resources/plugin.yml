@@ -1,0 +1,11 @@
+name: Canary
+main: com.boveybrawlers.Canary.Canary
+version: 1.0.0
+author: boveybrawlers
+load: STARTUP
+website: https://github.com/AbsoluteCraft/Canary
+commands:
+  nick:
+    usage: /nick [player] <nickname|off>
+  whois:
+    usage: /whois <nickname|username>
